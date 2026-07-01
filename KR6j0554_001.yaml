@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6j0554/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 開府儀同三司特進試鴻臚卿肅國公食邑三千戶賜紫贈司空諡大鑑正號大廣智大興善寺三藏沙門不空奉詔譯如是我聞一時薄伽梵住室羅伐城逝多林給孤長者園與大苾芻衆千二百五十人俱衆多諸大菩薩摩訶薩爾時世尊告阿難陀言阿難陀有陀羅尼能除世間一切疾病汝當受持讀誦通利如理作意即說密言曰怛儞也二合他一尾摩黎尾摩黎二嚩曩俱枳黎三室唎二合末底丁以反四軍拏黎五嫩奴鼻六印捺囉二合擬𩕳二合七母隸娑嚩二合訶佛告阿難陀此陀羅尼若誦持者宿食不消癨亂風黃痰癊患痔瘻淋上氣嗽虐寒熱頭痛半痛著鬼魅者悉得除差我以佛眼觀見彼人諸天魔梵沙門婆羅門能作障難除非決定業報盡者餘無能違越作其障難如來應供正遍知說一切有情中如來為尊勝一切法中離欲法尊一切衆中僧伽為尊以此誠實言願我及一切有情食飲喫啖入腹消化得正安樂娑嚩二合引訶引爾時世尊說是經已諸苾芻僧并諸菩薩摩訶薩一切大衆天龍八部受持佛語歡喜奉行
+  hash: sha256:55d7eb9dfc274f85c45f332e452ea88cbf9edb4f7eede29034fa92bae79390e9
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 除一切疾病陀羅尼經, id: KR6j0554_T_001-juan-start, juan_n: '001', jhead: 除一切疾病陀羅尼經}
+  - {type: 'cbeta:juan-end', offset: 368, content: 除一切疾病陀羅尼經, id: KR6j0554_T_001-juan-end, juan_n: '001', jhead: 除一切疾病陀羅尼經}
+metadata:
+  title: 除一切疾病陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1323.xml
+    old_id: T21n1323
+hash: sha256:b0d8813cb3718aa094c3a517d1541db00d45a86d99b761297379073d9d3629ab

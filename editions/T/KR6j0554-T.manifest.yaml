@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0554/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0554/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 除一切疾病陀羅尼經
+  identifiers:
+    krp: KR6j0554
+    cbeta: T21n1323
+    cbeta_old_id: T21n1323
+    authorityid: CA0000507
+    json_key: T1323
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1323.xml
+    old_id: T21n1323
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0554_000-T.yaml, hash: 'sha256:7d54dcd54204e926720fbe99611e82b7ff84c0ce175ab482347c45ceaf6589d6'}
+  - {seq: 1, filename: KR6j0554_001-T.yaml, hash: 'sha256:9325f943bebc0abc9905750db2a8ece1092eb59a0da13eaf8447ec80d5ae734e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0554_000-T.markers.yaml, hash: 'sha256:6feb17075ab28e02d0744e95ccc6182d9a1ddcc523cc4f3f1d5455abaec4888b'}
+  - {seq: 1, role: markers, filename: assets/KR6j0554_001-T.markers.yaml, hash: 'sha256:34d31a3dc613d604fbfc1fe3997a3e85ba2acbf6ca16b56e0343a64a168e0d2b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0554_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 368
+  label: 除一切疾病陀羅尼經
+  type: juan
+  level: 1
+hash: sha256:d52c428f77436df1f367d22149d4c5fd89ae2d1ae133460c91518cfa170971be
