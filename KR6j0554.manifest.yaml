@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0554_000.yaml, hash: 'sha256:7d54dcd54204e926720fbe99611e82b7ff84c0ce175ab482347c45ceaf6589d6'}
-  - {seq: 1, filename: KR6j0554_001.yaml, hash: 'sha256:b0d8813cb3718aa094c3a517d1541db00d45a86d99b761297379073d9d3629ab'}
+  - {seq: 1, filename: KR6j0554_001.yaml, hash: 'sha256:9325f943bebc0abc9905750db2a8ece1092eb59a0da13eaf8447ec80d5ae734e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0554_001.markers.yaml, hash: 'sha256:dae0a1d2906d43ddf4020a7d3e21a462a7e181a6a7bf14c90521f15176bba253'}
+  - {seq: 0, role: markers, filename: assets/KR6j0554_000.markers.yaml, hash: 'sha256:5bf02888d6eaf964386e2a7924e6af1e7c04b9a90b6158f1ccb17e9fc1408b51'}
+  - {seq: 1, role: markers, filename: assets/KR6j0554_001.markers.yaml, hash: 'sha256:6c8bcacb28f24bfab929131c2e4efadf548ab4169763214147c03380cdc4a8d5'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 除一切疾病陀羅尼經
   type: juan
   level: 1
-hash: sha256:89fdb1a25cc1969f0146c27ff6c0fc3c0b6f81ca4af9827f55a1ccf384c8d08d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:6900f7f8ef63dfbeafcb72a78af8d47b14aedf5004f0e6b107a0fcb845c3f687
