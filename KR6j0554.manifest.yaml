@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0554/v1
 canonical_location: https://kanripo.org/bkk/KR6j0554/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 除一切疾病陀羅尼經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0554_000.yaml, hash: 'sha256:7d54dcd54204e926720fbe99611e82b7ff84c0ce175ab482347c45ceaf6589d6'}
-  - {seq: 1, filename: KR6j0554_001.yaml, hash: 'sha256:9325f943bebc0abc9905750db2a8ece1092eb59a0da13eaf8447ec80d5ae734e'}
+  - {seq: 1, filename: KR6j0554_001.yaml, hash: 'sha256:a7ce3e0e1550bcfb77cf6c1585ed3655cf2fab03da8a12c02dca1e37f620aaa9'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0554_000.markers.yaml, hash: 'sha256:5bf02888d6eaf964386e2a7924e6af1e7c04b9a90b6158f1ccb17e9fc1408b51'}
-  - {seq: 1, role: markers, filename: assets/KR6j0554_001.markers.yaml, hash: 'sha256:6c8bcacb28f24bfab929131c2e4efadf548ab4169763214147c03380cdc4a8d5'}
+  - {seq: 1, role: markers, filename: assets/KR6j0554_001.markers.yaml, hash: 'sha256:d638c1c199898a9e4682dfca314bc8c9258827e3eccb9194d41e74460a3a5266'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 除一切疾病陀羅尼經
   type: juan
   level: 1
-hash: sha256:6900f7f8ef63dfbeafcb72a78af8d47b14aedf5004f0e6b107a0fcb845c3f687
+hash: sha256:a201cf7b1162e00c1e15811c7693eabf871ac58545e830eba253fe9829e6575a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
